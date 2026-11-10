@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+site-packages/
+sites_packages/
+__pycache__/
+*.py[cod]
+.pytest_cache/
